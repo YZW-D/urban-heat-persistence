@@ -59,4 +59,4 @@ Fig. 1d使用`figure_packages/fig1/Fig1D_scenarios_2030.csv`中的情景数据�
 - LandScan Mosaic Annual Global Ambient Population Time Series, Version 1.0：[doi:10.48690/lsm/zew2-1n91](https://doi.org/10.48690/lsm/zew2-1n91)。
 - IPCC AR6参考区域：Iturbide, M. et al., *Earth System Science Data* **12**, 2959–2970 (2020)。
 
-更多字段说明与程序对应关系见[数据字典](docs/DATA_DICTIONARY.md)和[图表索引](docs/FIGURE_AND_ANALYSIS_INDEX.md)。网页上传操作见[GitHub上传指南](docs/GITHUB_RELEASE_GUIDE_CN.md)。
+更多字段说明与程序对应关系见[数据字典](docs/DATA_DICTIONARY.md)和[图表索引](docs/FIGURE_AND_ANALYSIS_INDEX.md)。
