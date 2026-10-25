@@ -43,7 +43,6 @@ Generated results are saved in `outputs/`; the main figures are also available a
 | `figures/main/` | PDF and PNG versions of the five main figures |
 | `docs/` | Data dictionary, figure index and GitHub upload instructions |
 
-Figure 4 summarizes annual entry into and exit from high-effect states. Figure 5 summarizes transitions into and out of persistent states, together with regional population components.
 
 ## Results
 
