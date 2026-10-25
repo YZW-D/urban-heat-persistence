@@ -1,0 +1,20 @@
+metric,value,unit
+city_count,9713.000000000,cities
+city_year_records,233112.000000000,city-year records
+baseline_threshold_uah_c,1.425855399,degrees C
+base_population_persistent_2003,410670865.000000000,persons
+final_population_persistent_2024,1024074257.000000000,persons
+total_population_increase,613403392.000000000,persons
+cumulative_entry_contribution,776010586.500000000,persons
+cumulative_exit_contribution,-287504840.000000000,persons
+net_membership_contribution,488505746.500000000,persons
+population_change_contribution,124897645.500000000,persons
+membership_share_of_increase_percent,79.638579257,percent
+population_change_share_of_increase_percent,20.361420743,percent
+endpoint_membership_contribution,472854599.000000000,persons
+endpoint_population_change_contribution,140548793.000000000,persons
+endpoint_membership_share_percent,77.087053180,percent
+largest_entry_year,2021.000000000,calendar year
+largest_entry_contribution,133938560.500000000,persons
+largest_exit_year,2022.000000000,calendar year
+largest_exit_contribution,-39555563.500000000,persons

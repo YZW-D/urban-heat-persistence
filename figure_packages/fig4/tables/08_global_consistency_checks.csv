@@ -1,0 +1,14 @@
+﻿metric,value
+cities,9713
+city_year_rows,233112
+threshold_P90_2001_2005,1.4258553987999998
+persistence_2003,706
+persistence_2024,1509
+persistence_entries_2004_2024,1850.0
+persistence_exits_2004_2024,1047.0
+persistence_net_change,803.0
+persistent_population_2003,410670865
+persistent_population_2024,1024074257
+persistent_population_change,613403392.0
+population_membership_component,488505746.5
+population_demographic_component,124897645.5

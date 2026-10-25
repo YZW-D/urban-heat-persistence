@@ -1,0 +1,12 @@
+metric,value
+"UAH fixed threshold, 2001-2005 pooled P90 (deg C)",1.4258553987999998
+city count,9713.0
+city-year records,233112.0
+regions with study cities,43.0
+regions with >=50 cities,26.0
+global entry events,6081.0
+global entry eligible transitions,193546.0
+global entry rate (%),3.1418887499612493
+global exit events,4726.0
+global exit eligible transitions,29853.0
+global exit rate (%),15.830904766690114
