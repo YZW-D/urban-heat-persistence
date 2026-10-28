@@ -2,7 +2,7 @@
 
 Analysis code, city-year data and figure resources accompanying the manuscript *High urban heat is becoming harder for cities to escape*.
 
-The analysis traces annual urban-added heat (UAH) states for 9,713 cities worldwide over 2001–2024. High-effect status is defined using the 90th percentile of the pooled 2001–2005 city-year UAH distribution (1.4258553988 °C). Persistence is defined as at least three consecutive high-effect years, counted through each observation year.
+The analysis traces annual urban-added heat (UAH) states for 9,713 cities worldwide over 2001–2024. High-effect status is defined using the 90th percentile of the pooled 2001–2005 city-year UAH distribution (1.426 °C). Persistence is defined as at least three consecutive high-effect years, counted through each observation year.
 
 ## Getting started
 
