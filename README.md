@@ -58,7 +58,7 @@ Figure 1d is plotted using `figure_packages/fig1/Fig1D_scenarios_2030.csv`. Cond
 
 ## Data sources
 
-- GloUTCI-M global monthly 1-km UTCI dataset and 2023–2024 extension: [Zenodo, doi:10.5281/zenodo.8310513](https://doi.org/10.5281/zenodo.8310513).
+- GloUTCI-M global monthly 1-km UTCI dataset: [Zenodo, doi:10.5281/zenodo.8310513](https://doi.org/10.5281/zenodo.8310513).
 - LandScan Mosaic Annual Global Ambient Population Time Series, Version 1.0, 1975–2024: [doi:10.48690/lsm/zew2-1n91](https://doi.org/10.48690/lsm/zew2-1n91).
 - IPCC AR6 reference regions: Iturbide, M. et al., *Earth System Science Data* **12**, 2959–2970 (2020).
 
