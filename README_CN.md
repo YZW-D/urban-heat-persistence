@@ -1,6 +1,6 @@
 # 全球城市持续高热效应研究代码与数据
 
-本仓库提供论文 *Cities with persistent high urban heat effects more than doubled worldwide over two decades* 对应的城市年度数据、统计分析程序、2030年条件延伸程序，以及正文Fig. 1–5的图表数据和绘图代码。
+本仓库提供论文 *High urban heat is becoming harder for cities to escape* 对应的城市年度数据、统计分析程序、2030年条件延伸程序，以及正文Fig. 1–5的图表数据和绘图代码。
 
 研究覆盖2001—2024年全球9,713座城市。年度高热效应采用2001—2005年城市年度UAH合并分布的第90百分位数作为阈值（1.4258553988 °C）。连续至少三年达到该阈值的城市被归类为持续高热效应城市。
 
@@ -55,7 +55,7 @@ Fig. 4统计年度高热效应状态的进入与退出，Fig. 5统计持续状�
 
 Fig. 1d使用`figure_packages/fig1/Fig1D_scenarios_2030.csv`中的情景数据绘制。`analysis/scenario_2030.py`实现条件状态传播及分层bootstrap计算，并将计算结果输出到`outputs/scenarios/Fig1D_recomputed.csv`。
 
-- GloUTCI-M及2023—2024年扩展数据：[doi:10.5281/zenodo.8310513](https://doi.org/10.5281/zenodo.8310513)。
+- GloUTCI-M数据：[doi:10.5281/zenodo.8310513](https://doi.org/10.5281/zenodo.8310513)。
 - LandScan Mosaic Annual Global Ambient Population Time Series, Version 1.0：[doi:10.48690/lsm/zew2-1n91](https://doi.org/10.48690/lsm/zew2-1n91)。
 - IPCC AR6参考区域：Iturbide, M. et al., *Earth System Science Data* **12**, 2959–2970 (2020)。
 
