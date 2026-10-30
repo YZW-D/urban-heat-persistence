@@ -1,4 +1,4 @@
-# High urban heat is becoming harder for cities to escape
+# High urban heat is harder to escape the longer it lasts
 
 Analysis code, city-year data and figure resources accompanying the manuscript *High urban heat is harder to escape the longer it lasts*.
 
